@@ -3,8 +3,8 @@ title: costurinchis
 email: clara.linos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Nuestra caja (de)sastre
-baseurl: "costurinchis/" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/costurinchis" # the subpath of your site, e.g. /blog/
+url: "http://dhakelila.github.io/costurinchis/" # the base hostname & protocol for your site
 twitter_username: ""
 github_username:  ""
 
